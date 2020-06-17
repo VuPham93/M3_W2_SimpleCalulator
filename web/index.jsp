@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Simple Calculator</h1>
-<form method="post" action="${pageContext.request.contextPath}/calculate">
+<form method="post" action="calculate">
   <fieldset>
     <legend>Calculator</legend>
     <table>
